@@ -1,34 +1,5 @@
 # Javascript-Assignment--1
 
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@SravanGunaganti
-SravanGunaganti /
-Javascript-Assignment--1
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Javascript-Assignment--1/AssignmentQuestions.txt
-@SravanGunaganti
-SravanGunaganti FirstCommit
-Latest commit 5041ff8 7 minutes ago
-History
-1 contributor
-108 lines (92 sloc) 6.43 KB
 /* 
     To help us use arrays with real world problems we are going to simulate a used car dealer that has 50 cars in their inventory.
     The car dealer has all of their inventory housed in the array seen below.  Scroll down past the data to find out how you can help the car dealer.
