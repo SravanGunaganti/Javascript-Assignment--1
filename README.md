@@ -9,7 +9,7 @@
     Example for loop:
     -----------------
     arr = [1,2,3,4];
-    for (i = 0; i < arr.length; i++) {
+    for (i = 0; i < arr.length; i++) { 
         arr[i];  // 1,2,3,4
     }
 
